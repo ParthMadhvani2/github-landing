@@ -1,6 +1,6 @@
 # GitHub Landing
 
-GitHub Landing Page UI. GitHub Internship Assignment.
+GitHub Landing Page UI build by Parth Madhvani with 🤍.
 
 Check out the Figma design [here](<https://www.figma.com/file/67lJIMMvmDQojnbQvaK7EL/GitHub-landingpage-Design?type=design&node-id=0-1&mode=design&t=y6ELmfXDfeqYjGPM-0>)
 
