@@ -1,14 +1,13 @@
 'use client'
-
 import React, {useState} from 'react'
 
 type Props = {
-    main:string
-    path:string
+    main: string
+    path: string
 }
 
-const Navlist2 = ({main,path}: Props) => {
-    const [focus,setFocus] = useState<boolean>(false)
+const Navlist2 = ({main , path}: Props) => {
+    const [focus, setFocus] = useState<boolean>(false)
   return (
     <a onMouseEnter={() => setFocus(true)} onMouseLeave={() => setFocus(false)} href="#" className={`flex  items-center ${focus ? "text-blue-600":"text-neutral-500"}`}>
         {main}
